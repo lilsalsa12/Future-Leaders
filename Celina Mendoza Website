@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/3/w3.css">
+<!-- Navigation -->
+<nav class="w3-bar w3-purple">
+  <a href="file:///Users/celinamendoza/Downloads/Celina's%20Website.html#Youtube%20Videos" class="w3-button w3-bar-item">Home</a>
+  <a href="https://drive.google.com/file/d/16w6V9Ig6da9iSfvuUcHEB9e9enymuwbH/view?usp=sharing" class="w3-button w3-bar-item">Training</a>
+  <a href="https://www.linkedin.com/in/celina-mendoza-272478125/" class="w3-button w3-bar-item">Contact</a>
+ 
+</nav>
+<body>
+<section> 
+  <h1> Future Leaders: An Empowerment Training for Girls of Color </h1>
+  <h2> 
+ </h2>
+  <h3> Future Leaders is an empowerment training designed to help girls of color combat negative stereotypes affecting their behavioral development and implicit cognition.
+ <!-- Slide Show -->
+<section>
+  <img class="mySlides" src="https://variety.com/wp-content/uploads/2020/06/sharethemicnow.jpg?w=681&h=383&crop=1" style="width:25%">
+  <img class="mySlides" src="https://www.abajournal.com/images/main_images/womenofcolor_shutterstock_illustration750px.png" style="width:25%">
+  <img class="mySlides" src="https://cdn-0.studybreaks.com/wp-content/uploads/2019/12/femaleempowermentcover.jpg" style="width:25%">
+
+</section>
+  <h4> <strong> Objective of Training </strong> </h4>
+
+  <h5> The ultimate goal of this training is to promote long-term senses of empowerment and leadership in girls of color so that they may be prepared to overcome existing and evolving problems in the 21st century. </h5>
+
+  <h4> <strong> Contents of Training </strong> </h6>
+  <h5> 
+<table style="width:100%" <center>
+  <tr>
+    <center>
+    <th>Session</th>
+    <th>Title</th> </center>
+
+  </tr>
+  <tr>
+    <center>
+    <td>Session One</td>
+    <td>The Effects of Negative Stereotypes on Behavioral Development and Implicit Cognition  </center> </td>
+  </tr>
+  <tr>
+    <td>Session Two</td>
+    <td>Critical Consciousness</td>
+  </tr>
+  <tr>
+    <td>Session Three</td>
+    <td>Feminist Identity Development</td>
+</tr>
+  <tr>
+    <td>Session Four</td>
+    <td>Resilience</td>
+</tr>
+  <tr>
+    <td>Session Five</td>
+    <td> Empowerment</td>
+</tr>
+  <tr>
+    <td>Session Six</td>
+    <td>Leadership</td>
+</table></center>
+<h3>
+The following videos were used in the training to help girls with the retention of material. They contain valuable information to help girls foster greater senses of empowerment and leadership.
+</h3>
+<h4> <strong> Critical Consciousness </h4>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOrgf3wTUbo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<h4> <strong> Empowerment </h4>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OWMp8DDBY_8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<h4> <strong> Leadership </h4>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FVzHBWoIGEw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+</body>
+</html>
